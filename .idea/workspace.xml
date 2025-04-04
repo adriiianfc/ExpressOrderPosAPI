@@ -24,6 +24,7 @@
       <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/db/config/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/db/config/db_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/db.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/db/models/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/db/models/pdv_models.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
@@ -117,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743773730918</updated>
-      <workItem from="1743773737359" duration="21658000" />
+      <workItem from="1743773737359" duration="23647000" />
     </task>
     <servers />
   </component>
